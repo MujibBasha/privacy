@@ -1,5 +1,6 @@
 Privacy Policy  
 ----------------
+Last Updated: **2021/09/31**
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at *MANHAJI*, how *MANHAJI* uses it, and what choices you have.
