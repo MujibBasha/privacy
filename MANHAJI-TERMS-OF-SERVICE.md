@@ -1,4 +1,4 @@
-# **MANHAJI** TERMS OF SERVICE
+## **MANHAJI** TERMS OF SERVICE
 
 Last Updated: **2021/09/31]**
 
@@ -79,19 +79,23 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 ## Copyright Complaints
 
-**[IF YOUR APPLICATION WILL PERMIT USER GENERATED CONTENT, CONSULT WITH LEGAL COUNSEL REGARDING DMCA COMPLIANCE PROCEDURES AND INCLUDE THIS SECTION AND A COPYRIGHT POLICY.]**
+This website and its content is copyright of MANHAJI - © MANHAJI 2021. All rights reserved.
 
-We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **[LINK TO FULL COPYRIGHT POLICY IF APPLICABLE.]**
+*Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:*
+
+You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or other form of electronic retrieval system.
+
+We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law.
+
+You can find more information about the DMCA at the https://www.copyright.gov/ website.
 
 ## Governing Law
 
-**[PLEASE NOTE THAT THIS TEMPLATE INCORPORATES TERMS AND SECTIONS THAT ARE INTENDED FOR U.S-BASED SERVICES. CONSULT WITH LEGAL COUNSEL TO DETERMINE THE APPROPRIATE GOVERNING LAW FOR YOUR TERMS AND WHETHER YOU ARE SUBJECT TO ANY ADDITIONAL LEGAL REQUIREMENTS BASED ON HOW AND WHERE YOUR SERVICE OPERATES.]**
-
-The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **[U.S. STATE NAME OR OTHER JURISDICTION]**, without regard to conflicts of law principles.
+The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **LY / Libya**, without regard to conflicts of law principles.
 
 ## Jurisdiction
 
-You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **[STATE NAME OR JURISDICTION]** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the **[STATE NAME OR JURISDICTION]** located in **[CITY AND STATE IF APPLICABLE]** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
+You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **Libya** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the **Libya** located in **Tripoli** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
 
 ## Termination
 
@@ -103,10 +107,9 @@ These Terms constitute the entire agreement between you and **MANHAJI** regardin
 
 ## Feedback
 
-Please let us know what you think of the Service, these Terms and, in general, **[APP NAME]**. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **[APP NAME]**, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+Please let us know what you think of the Service, these Terms and, in general, **MANHAJI**. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **MANHAJI**, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address **[SUPPORT EMAIL ADDRESS]**.
+Questions or comments about the Service may be directed to us at the email address **light.moon.studioo@email.com**.
 
-**[FINAL NOTE: CERTAIN APPLICATION STORES (E.G., APPLE APP STORE, GOOGLE PLAY, ETC.) MAY REQUIRE YOU TO INCLUDE ADDITIONAL TERMS AND CONDITIONS IN THESE TERMS OF SERVICE AS A CONDITION TO MAKING YOUR APPLICATION AVAILABLE ON SUCH PLATFORM. IF APPLICABLE, REVIEW YOUR AGREEMENT WITH ANY SUCH APPLICATION STORE TO DETERMINE IF ADDITIONAL TERMS ARE REQUIRED.]**
