@@ -1,12 +1,12 @@
 ## **MANHAJI** TERMS OF SERVICE
 
-Last Updated: **2021/09/31]**
+Last Updated: **2021/09/31**
 
 These terms of service apply to your access and use of **MANHAJI** . Please read them carefully.
 
 ## Accepting these Terms
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing **[SUPPORT EMAIL ADDRESS]**.
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing **light.moon.studioo@email.com**.
 
 ## Changes to these Terms
 
